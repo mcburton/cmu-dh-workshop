@@ -28,3 +28,4 @@ With the growing popularity of the Python programming language for research, dat
 
 - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - This is a great resource and starting point for digital humanists who are interested in data analysis/cultural analytics. I have included this book in this GitHub repository.
 - [Python for Digital Humanities](https://pythonhumanities.com/) - A comprehensive introduction to Python coding with a textbook, videos, and course materials.
+- [Defactoring Pace of Change](https://github.com/interedition/paceofchange/blob/master/defactoring-pace-of-change.ipynb) - An line-by-line analysis of digital humanities code.
