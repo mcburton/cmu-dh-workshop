@@ -20,7 +20,7 @@ With the growing popularity of the Python programming language for research, dat
 ### Python Data Science
 
 
-- [Official Pandas Documentation](http://pandas.pydata.org/docs/) - The [User Guide]() is a good place to start, but keep the [API Reference](http://pandas.pydata.org/docs/reference/index.html) nearby at all times.
+- [Official Pandas Documentation](http://pandas.pydata.org/docs/) - The [User Guide](https://pandas.pydata.org/docs/user_guide/index.html) is a good place to start, but keep the [API Reference](http://pandas.pydata.org/docs/reference/index.html) nearby at all times.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - This is a free, open access book that is a great companion to the Whirlwind Tour of Python.
 
 
