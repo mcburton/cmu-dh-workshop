@@ -7,7 +7,7 @@ This GitHub repository contains the materials for the Introduction to coding and
 
 ## Python Resources
 
-With the growing popularity of the Python programming language for research, data science, and machine learning there has been a commensurate explosion of resources for learning Python programming. T
+With the growing popularity of the Python programming language for research, data science, and machine learning there has been a commensurate explosion of resources for learning Python programming. Here are a few resources for learning the Python programming language, doing data science in Python, and some links to resources specifically for (digital) humanists.
 
 ### Getting started with Python Programming
 
